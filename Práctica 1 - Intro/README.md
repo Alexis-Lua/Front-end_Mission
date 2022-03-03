@@ -1,2 +1,2 @@
 # Intro 
-En esta carpeta se muestran los trabajos de práctica terminados.
+Dentro de esta carpeta se guardarán los trabajos de práctica terminados.
